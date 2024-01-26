@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kodez/static/css/main.e6c13ad2.css",
+    "main.js": "/kodez/static/js/main.ebedd6b2.js",
+    "static/js/787.c20c0ea2.chunk.js": "/kodez/static/js/787.c20c0ea2.chunk.js",
+    "index.html": "/kodez/index.html",
+    "static/media/logo.svg": "/kodez/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.e6c13ad2.css.map": "/kodez/static/css/main.e6c13ad2.css.map",
+    "main.ebedd6b2.js.map": "/kodez/static/js/main.ebedd6b2.js.map",
+    "787.c20c0ea2.chunk.js.map": "/kodez/static/js/787.c20c0ea2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ebedd6b2.js"
+  ]
+}
